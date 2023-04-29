@@ -14,4 +14,5 @@ Run this command : streamlit run app.py
 
 Input the values in the interface. It will predict and show the output.
 
-![image](https://user-images.githubusercontent.com/113804196/235281613-528c0e38-31c6-41c2-80c9-c4d9728b17e8.png)
+![image](https://user-images.githubusercontent.com/113804196/235281658-23057084-8882-4374-877a-d21e53e66458.png)
+
